@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Python}/trilha-python-dio/07 - Banco de dados/cliente.db",
+            "name": "clente"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
